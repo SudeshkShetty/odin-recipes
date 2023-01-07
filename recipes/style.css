@@ -1,0 +1,37 @@
+h1{
+    background-color: black;
+    color: azure;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    background-color: black;
+    color:bisque;
+}
+
+
+p{
+    font-size:30px;
+    color:rgb(3, 3, 3);
+    text-align:left;
+    background-color: wheat;
+
+}
+
+
+.monh{
+    color:brown;
+}
+
+.yad{
+    color:blueviolet;
+}
+
+img{
+    float: none;
+    width: 500px;
+    height:500px;
+    object-fit: cover;
+}
