@@ -1,0 +1,16 @@
+html{
+    font-size: 2rem;
+}
+body{
+    padding:20px;
+    width:1000px;
+    margin:0 auto;
+    background-color: beige;
+}
+img{
+    margin:0 auto;
+    display:block;
+}
+h1{
+    text-align: center;
+}
